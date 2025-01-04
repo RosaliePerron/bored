@@ -1916,7 +1916,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss-preset-mantine@npm:1.17.0":
+"postcss-preset-mantine@npm:^1.17.0":
   version: 1.17.0
   resolution: "postcss-preset-mantine@npm:1.17.0"
   dependencies:
@@ -2526,7 +2526,7 @@ __metadata:
     "@vitejs/plugin-react": "npm:^4.3.4"
     dayjs: "npm:^1.11.13"
     postcss: "npm:^8.4.49"
-    postcss-preset-mantine: "npm:1.17.0"
+    postcss-preset-mantine: "npm:^1.17.0"
     postcss-simple-vars: "npm:^7.0.1"
     react: "npm:^18.3.1"
     react-dom: "npm:^18.3.1"
